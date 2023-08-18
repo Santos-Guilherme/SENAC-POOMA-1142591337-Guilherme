@@ -1,0 +1,33 @@
+Classes e Objetos
+ATIVIDADE #02 - IDENTIFICANDO CLASSES DE OBJETOS
+ 
+ Classes
+ 
+ - Sessões:
+ Id;
+ Data;
+ Horário;
+ Duração;
+ Título;
+ Classificação indicativa;
+ Gênero;
+
+ - Ingressos:
+ Id do Assento;
+ Valor;
+ 
+ - Assentos:
+ Fileira;
+ Número;
+ Tipo de assento;
+ 
+ -Cliente:
+ Id;
+ Nome;
+ Idade;
+
+ - Desconto:
+ Idade;
+ Dia;
+ Horário;
+ Estudante;
